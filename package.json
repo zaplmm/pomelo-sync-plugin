@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "private": false,
   "dependencies": {
-    "pomelo-sync": "0.0.4",
-    "pomelo-logger": "0.1.6"
+    "pomelo-sync": "github:zaplmm/pomelo-sync",
+    "pomelo-logger": "github:zaplmm/pomelo-logger"
   }
 }
